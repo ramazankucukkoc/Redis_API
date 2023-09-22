@@ -2,7 +2,7 @@
 ## Redis'i dockerda ayaga kaldırdık.
 ![image](https://github.com/ramazankucukkoc/Redis_API/assets/79471806/49e2002e-b9e1-4072-bb3e-08be96fe6d2c)
 
-## Daha sonra Redis Insight Arayüzü kontrol etti verilerin işlenip işlenmedğiyle ilgili.
+## Daha sonra Redis Insight Arayüzü kontrol etti verilerin işlenip işlenmediyle ilgili.
 ![image](https://github.com/ramazankucukkoc/Redis_API/assets/79471806/d69dcf90-3a32-46d6-a62b-1179491d9a7e)
 
 ## Verilerin redis'te çekilme işlemi.
